@@ -1,0 +1,5 @@
+*.zip
+*.log
+*.local
+*.code-workspace
+pca10040/blank/armgcc/_build/
